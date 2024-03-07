@@ -1,1 +1,2 @@
 # InsureSure-Forecasting-Insurance-Claims-with-Logistic-Regression
+InsureSure" employs logistic regression to forecast insurance claim likelihood. Analyzing diverse data like policyholder demographics, coverage types, and past claim history, this model aims at accurately predicting the probability of future claims. Enhancing risk assessment and decision-making, "InsureSure" empowers insurers to optimize resource allocation and improve customer service.
